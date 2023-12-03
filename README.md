@@ -44,6 +44,7 @@ A: Yes, you can utilize HTML in the banner content to tailor it to your needs.
 
 1. Screenshot of the Category Banner Settings page.
    ![Category Banner Settings](https://www.ooize.com/assets/plugins/Category-Banner/asset/image.png)
+   
 
 ## Changelog
 
